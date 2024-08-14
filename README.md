@@ -1,6 +1,8 @@
-# BulkyWeb - a Bookstore Tutorial - ASP.NET Core MVC
+# Introduction
 
-(Tutorial Project)
+The Bulky_MVC project is an ASP.NET Core MVC web application that implements an online bookstore management system. It features CRUD operations for managing books, categories, and order processing. The project emphasizes best practices in ASP.NET Core MVC, dependency injection, and layered architecture, ensuring scalability and maintainability.
+
+
 
 -----
 
