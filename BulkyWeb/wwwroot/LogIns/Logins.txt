@@ -1,0 +1,4 @@
+TestAdmin@email.com - Admin123*
+TestCustomer@email.com - Customer123*
+TestCustomer1@email.com - Customer123*
+TestCustomer2@email.com - OleOle - Customer123* - Hemelstraat 77 - Betlehem - HetBeloofdeLand - 7777
